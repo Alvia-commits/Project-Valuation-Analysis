@@ -1,6 +1,7 @@
 Project Valuation Analysis Report
 
 1. Introduction
+   
 The purpose of this project is to analyze the valuation trends of unicorn companies (startups valued at $1 billion or more). The dataset includes company name, valuation (in billions), date joined, country, city, industry, and key investors.
 
 Our main goal is to answer critical questions such as:
@@ -21,9 +22,9 @@ This analysis helps understand where innovation is booming, who is funding it, a
 - Checked for missing values — none were significant enough to impact results.
 
 3. Exploratory Data Analysis (EDA)
+   
 Q1. Highest Valuation Projects
-Answer:
-Top 3 highest-valued companies are:
+Answer: Top 3 highest-valued companies are:
 - ByteDance – $140B
 - SpaceX – $127B
 - SHEIN – $100B
